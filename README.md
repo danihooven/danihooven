@@ -1,11 +1,8 @@
-<h1 align="center">Hello World! It's me, Dani 👋</h1>
-</br>
+# Hello World! It's me, Dani 👋
 
+## I'm a Developer, Designer, Student, Baker, Gamer, Musician, and Momma
 
 <img align="right" alt="Developer girl with cat" src="https://github.com/danihooven/danihooven/blob/a3ebe9021da1847c56a3af741f8a48dcadf87d00/giphy.gif?raw=true" width="450"  />
-
-
-## I'm a Developer, Designer, Student, Baker, Gamer, and Momma
 
 - 🔭 I’m currently working on a bachelor degree in web dev
 - 🌱 I’m currently learning Ruby on Rails and R programming
@@ -26,7 +23,7 @@
 
 </br>
 
-<h2 align="left"> Languages and Tools: </h2>
+## Languages and Tools:
 
 
 <table align="left"> 
@@ -72,9 +69,6 @@
       <img align="center" title="JavaScript" width = "50px"            
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     </td>
-  </tr>
-  <!-- Row 2 -->
-  <tr>   
     <td>
       <img align="center" title="JQuery" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
@@ -87,6 +81,9 @@
       <img align="center" title="Jupyter Notebook" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
     </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>   
     <td>
       <img align="center" title="Linux" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
@@ -115,9 +112,6 @@
       <img align="center" title="PHP" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
     </td>
-  </tr>
-  <!-- Row 3 -->
-  <tr>
     <td>
       <img align="center" title="Python" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -142,6 +136,9 @@
       <img align="center" title="Ubuntu" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
     </td>
+  </tr>
+  <!-- Row 3 -->
+  <tr>
     <td>
       <img align="center" title="Vue" width = "50px" 
            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
