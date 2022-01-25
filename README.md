@@ -21,8 +21,6 @@
 <img align="left" alt="Junimo" src="https://user-images.githubusercontent.com/55116910/151044794-39615aa0-8e9f-4600-b9b2-16c73108e779.gif" width="50" height="50"/>
 -->
 
-</br>
-
 ## Languages and Tools:
 
 
