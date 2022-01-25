@@ -4,7 +4,7 @@
 
 <img align="right" alt="Developer girl with cat" src="https://github.com/danihooven/danihooven/blob/a3ebe9021da1847c56a3af741f8a48dcadf87d00/giphy.gif?raw=true" width="450"  />
 
-- 🔭 I’m currently working on a bachelor degree in web dev
+- 🔭 I’m currently working on a bachelor degree in web dev with a minor in data analytics
 - 🌱 I’m currently learning Ruby on Rails and R programming
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with optimization and security
