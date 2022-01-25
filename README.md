@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a bachelor degree in web development with a minor in data analytics
+- 🔭 I’m currently working on a web dev bachelor degree with a minor in data analytics
 - 🌱 I’m currently learning Ruby on Rails
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with optimization
