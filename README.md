@@ -9,7 +9,6 @@
 - 👯 I’m looking to collaborate on open source
 - 🤔 I’m looking for help with optimization and security
 - 💬 Ask me about web accessibility
-- 📫 How to reach me: [Linkedin/danihooven]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to play Stardew Valley 
 
